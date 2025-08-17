@@ -52,6 +52,6 @@ Plotly Express: For creating dynamic and interactive visualizations.
 This app is designed for easy deployment on Streamlit Community Cloud. Since the dataset is included in the repository, the app will automatically be able to locate and load the data after you link your GitHub repository.
 
 ## Author
-https://www.linkedin.com/in/sukritkashyapgoswami/
-https://github.com/Sukrit888
-https://medium.com/@6sukritgoswami
+# https://www.linkedin.com/in/sukritkashyapgoswami/
+# https://github.com/Sukrit888
+# https://medium.com/@6sukritgoswami
